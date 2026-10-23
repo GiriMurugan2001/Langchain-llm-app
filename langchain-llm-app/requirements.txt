@@ -1,0 +1,4 @@
+langchain-xai
+langchain-google-genai
+python-dotenv
+flask
